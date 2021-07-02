@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Link da aplicação
+https://album-app-three.vercel.app/
+
+### APIS utilizadas:
+
+https://jsonplaceholder.typicode.com/albums
+
+https://jsonplaceholder.typicode.com/users/1/albums
