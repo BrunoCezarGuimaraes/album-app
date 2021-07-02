@@ -1,7 +1,7 @@
 <template>
-  <h1 class="h">Cabecalho</h1>
+  <h1 class="h">Header</h1>
   <router-view></router-view>
-  <h1 class="h">Rodape</h1>
+  <h1 class="h">Footer</h1>
 </template>
 
 <script>
@@ -18,6 +18,6 @@ export default {
   border-radius: 1rem;
 }
 .h {
-  padding: 5px;
+  padding: 10px;
 }
 </style>

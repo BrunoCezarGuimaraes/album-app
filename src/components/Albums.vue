@@ -48,7 +48,7 @@ export default {
 
 <style>
 .temp-album{
-    background-color: white;
+    background-color: rgb(236, 236, 236);
     padding: 5px;
     width: 23rem;
     border-radius: 1rem;
@@ -56,6 +56,7 @@ export default {
 .div-album {
   display: flex;
   align-items: center;
+  background: white;
   border: 1px solid lightgray;
   border-radius: 0.2rem;
   margin: 0.5rem;
